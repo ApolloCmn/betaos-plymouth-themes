@@ -1,0 +1,5 @@
+Package: plymouth-theme-upstream
+Version: 2023.08.alpha
+Maintainer: BetaOS Team
+Architecture: amd64
+Description: Plymouth theme for BetaOS Upstream
