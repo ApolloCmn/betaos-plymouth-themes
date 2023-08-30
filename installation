@@ -1,0 +1,7 @@
+Installation steps
+First, install the package:
+sudo dpkg -i name-of-the-file.deb
+Next, set the Plymouth theme online:
+sudo update-alternatives --install /usr/share/plymouth/themes/(theme folder)/theme-name.plymouth default.plymouth
+Next, choose the theme:
+sudo update-alternaties --config default.plymouth
